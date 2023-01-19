@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-This is a test of the broadcasting network. 
-
-This is a second change. 
+1. index.html
